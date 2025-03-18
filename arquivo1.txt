@@ -7,6 +7,7 @@ Resposta da lista de exercicio:
 
 Questão 01 
 
+
 Questão 02
 
 
@@ -16,6 +17,13 @@ Questão 05
 
 Questão 06
 
-Questão 07
+Questão 10
+
+Questão 11
+
+Questão 12
+
+Comentários dos comandos
+
 
 
